@@ -8,7 +8,7 @@
 Stardust is a programming languaged built for Quantum Computing and AI as well as various other software.I will be making the grammar live on [Twitch](https://www.twitch.tv/fortr4n) and individual programs using the programming language on Youtube
 
 # Influenced by
-  - [Fortran](https://en.wikipedia.org/wiki/Fortran) #Heavily influenced by
+  - [Fortran](https://en.wikipedia.org/wiki/Fortran) *heavy influence*
   - [R](https://en.wikipedia.org/wiki/R_(programming_language))
   - [C](https://en.wikipedia.org/wiki/C_(programming_language))
   - [Q#](https://en.wikipedia.org/wiki/Q_Sharp)
