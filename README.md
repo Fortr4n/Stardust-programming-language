@@ -15,11 +15,11 @@ Stardust is a programming languaged built for Quantum Computing and AI as well a
   - [Brainfuck](https://en.wikipedia.org/wiki/Brainfuck)
 
 # Hello World Example
-''' [
+'''[
      Program: Hello World
      Entry<>
   +++++* "Hello World"
-       ---
+      
     Quote < true
     Entropy(paste)
   End Render
