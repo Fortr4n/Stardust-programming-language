@@ -13,3 +13,14 @@ Stardust is a programming languaged built for Quantum Computing and AI as well a
   - [C](https://en.wikipedia.org/wiki/C_(programming_language))
   - [Q#](https://en.wikipedia.org/wiki/Q_Sharp)
   - [Brainfuck](https://en.wikipedia.org/wiki/Brainfuck)
+
+# Hello World Example
+''' [
+     Program: Hello World
+     Entry<>
+  +++++* "Hello World"
+       ---
+    Quote < true
+    Entropy(paste)
+  End Render
+  '''
