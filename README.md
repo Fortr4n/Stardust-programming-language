@@ -5,7 +5,7 @@
 
 [![Build Status](https://travis-ci.com/Fortr4n/Stardust-programming-language.svg?token=5Kx7swHHzCrxPH4yZNJu&branch=main)](https://travis-ci.com/Fortr4n/Stardust-programming-language)
 
-Stardust is a programming languaged built for Quantum Computing and AI as well as various other software.
+Stardust is a programming languaged built for Quantum Computing and AI as well as various other software.I will be making the grammar live on [Twitch](https://www.twitch.tv/fortr4n) and individual programs using the programming language on Youtube
 
 # Influenced by
   - [Fortran](https://en.wikipedia.org/wiki/Fortran)
